@@ -1,0 +1,80 @@
+/*#my personal name{*/
+/*    background-color: deeppink;*/
+/*    font-size: 23px;*/
+/*    font-weight: normal;*/
+/*}*/
+
+/*#top left{*/
+/*    position: absolute;*/
+/*    font-weight: normal;*/
+/*    font-size: 12px;*/
+/*    word-spacing: normal;*/
+/*    justify-content: space-between;*/
+/*}*/
+/*#square{*/
+/*    width:800PX;*/
+/*    height: 3000px;*/
+/*    background-color: whitesmoke;*/
+/*    position: absolute;*/
+/*    top: 18%;*/
+/*    left: 30%;*/
+/*    bottom: 30%;*/
+/*    margin: -70px 0 0 -170px;*/
+/*}*/
+
+/*#topnav{*/
+/*    color: deeppink;*/
+/*    font-weight: bold;*/
+/*    font-size: xx-large;*/
+/*}*/
+
+/*#topnav-right{*/
+/*    float: right;*/
+/*    word-spacing: normal;*/
+/*    justify-content: space-between;*/
+/*    display: flex;*/
+/*    position: relative;*/
+/*    font-weight: normal;*/
+/*    font-size: 20px;*/
+/*}*/
+
+
+/*#text-Alignment{*/
+/*    color: black;*/
+/*    font-weight: normal;*/
+/*    font-size: 20px;*/
+/*    justify-content: normal;*/
+/*    word-spacing: 1px;*/
+/*    font-family: "Icons20", sans-serif;*/
+/*}*/
+
+/*.say-hi{*/
+/*    !*margin: 1px;*!*/
+/*    !*border: 50px;*!*/
+/*    background-color: deeppink;*/
+/*    !*padding: ;*!*/
+/*    !*content: ;*!*/
+/*    color: black;*/
+/*    font-weight: normal;*/
+/*    font-size: 20px;*/
+/*    font-family: "Icons20", sans-serif;*/
+
+/*}*/
+.Worker-name{
+    color: deeppink;
+    font-size: 23px;
+    font-weight: bold;
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-between;
+}
+
+.small_working_name{
+    color: black;
+    word-spacing: 13px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    align-items: flex-end;
+    text-align: right;
+}
